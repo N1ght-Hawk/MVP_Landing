@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/prabhath/Practice/skillshare"
+VIRTUAL_ENV="/home/prabhath/Practice/MVP_Landing/skillshare"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
